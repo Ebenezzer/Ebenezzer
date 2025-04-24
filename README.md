@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm David 👋
+
+Welcome to my GitHub! Here’s a breakdown of what you’ll find:
+
+## 🔧 Web Development
+
+## 🤖 Machine Learning
+
+## 🛠️ Miscellaneous
 
 <!--
 **Ebenezzer/Ebenezzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
